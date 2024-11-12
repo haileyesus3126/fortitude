@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body {
+    background: linear-gradient(90deg, rgb(15, 47, 110) 0%, rgb(117, 44, 44) 50%, rgb(114, 53, 60) 100%);
+    color: white; /* Text color */
+  }
+  
+  .container {
+    background-color: #f0f0f0; /* Light gray for content sections */
+  }
+  
